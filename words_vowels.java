@@ -45,7 +45,6 @@ public class words_vowels {
         System.out.println(vowels + nvowels);
         System.out.println("NUMBER OF WORDS BEGINNING AND ENDING WITH A VOWEL = " + count);
     }
-
     public static void main(String[] args) {
         words_vowels obj19 = new words_vowels();
         obj19.input();

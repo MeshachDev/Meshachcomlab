@@ -1,5 +1,3 @@
-
-/*if(ss[j].compareTo(str[j+1])>0) */
 // ex:23
 import java.util.*;
 
